@@ -4,11 +4,11 @@
   <artifactId>project4</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
-  <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+ <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
-    <version>4.23.0</version>
+    <version>4.24.0</version>
 </dependency>
 <!-- https://mvnrepository.com/artifact/org.testng/testng -->
 <dependency>
@@ -17,8 +17,7 @@
     <version>7.10.2</version>
     <scope>test</scope>
 </dependency>
-  
-  
+
   </dependencies>
   <build>
     <sourceDirectory>src</sourceDirectory>

@@ -5,7 +5,7 @@
     <classes>
       <class name="project4.MyFourthTest">
         <methods>
-          <include name="loginpage"/>
+          <include name="addWomentem"/>
           <include name="Mysetup"/>
         </methods>
       </class> <!-- project4.MyFourthTest -->
