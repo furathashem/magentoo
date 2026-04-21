@@ -1,21 +1,58 @@
-# Magento E-commerce Project
+Magento Testing Project
 
-## Overview
-This project is based on Magento platform for building an e-commerce website.
+Overview
 
-## Purpose
-The goal of this project was to explore Magento structure, understand e-commerce workflows, and gain hands-on experience with a real-world system.
+This project is based on the Magento platform for an e-commerce website.
 
-## Technologies
+---
+
+Testing Scope
+
+Manual testing was performed on the main functionalities of the system:
+
+- Login functionality
+- Add to Cart process
+- Checkout process
+
+---
+
+Test Cases
+
+Test cases were designed and executed to validate system behavior.
+
+You can find them in:
+
+- test-cases.md
+
+---
+
+Bug Reports
+
+Bugs were identified and documented during testing.
+
+You can find them in:
+
+- bug-reports.md
+
+---
+
+What I Learned
+
+- Writing and executing test cases
+- Identifying and reporting bugs
+- Understanding e-commerce workflows
+- Improving system quality through testing
+
+---
+
+Technologies
+
 - Magento
 - PHP
 - MySQL
 
-## What I Learned
-- Understanding large-scale system architecture
-- Working with e-commerce platforms
-- Basic customization and configuration
-- Debugging and exploring system behavior
+---
 
-## Note
-This project is for learning purposes and experimentation with Magento framework.
+Note
+
+This project is for learning purposes and focuses on software testing.
